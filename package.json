@@ -1,0 +1,17 @@
+{
+  "name": "bible-study",
+  "version": "0.9.0",
+  "private": true,
+  "scripts": {
+    "statics": "node scripts/generate-studies",
+    "deploy": "npm run statics && gh-pages -d public -u 'Justin Wilkey <jwilkey@tentkeep.com>'"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "fs": "0.0.1-security",
+    "gh-pages": "^2.1.1"
+  }
+}
