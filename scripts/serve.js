@@ -3,6 +3,7 @@ const port = 3777
 
 const requestHandler = (request, response) => {
   console.log(request.url)
+  response.setHeader('Access-Control-Allow-Origin', '*')
   if (request.url.startsWith('/studies')) {
     const study = require(`../public/${request.url}`)
     response.end(JSON.stringify(study))
