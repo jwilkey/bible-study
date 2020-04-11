@@ -2,7 +2,7 @@ module.exports = {
   passage: '1THESSALONIANS.1.1-1THESSALONIANS.1.2',
   text: './studies/1thessalonians/texts/STUDY_1.txt',
   observe: {
-    people: ['Paul', 'Silvanus', 'Timothy'],
+    people: ['Paul', 'Silvanus', 'Timothy', 'Thessalonians', 'God the Father', 'the Lord Jesus Christ'],
     nouns: [],
     adjectives: [],
     actions: [],
