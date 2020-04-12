@@ -1,6 +1,6 @@
 {
   "passage": "1THESSALONIANS.1.1-1THESSALONIANS.1.2",
-  "text": "1˚Paul,˙\nSilvanus,˙\nand Timothy,\n\nTo the church of the Thessalonians˙\n  in God the Father˙\n     and the Lord Jesus Christ:˙\n\nGrace to you˙\n  and peace.",
+  "text": "1˚Paul,˙\nSilvanus,˙\nand Timothy,\n\nTo the church of the Thessalonians˙\n  in God the Father˙\n     and the Lord Jesus Christ:\n\nGrace to you˙\n  and peace.",
   "observe": {
     "people": [
       "Paul",
@@ -16,18 +16,21 @@
       "grace",
       "peace"
     ],
-    "adjectives": [],
-    "actions": [],
+    "adjectives": "N/A",
+    "actions": [
+      "in",
+      "to"
+    ],
     "persons": {
       "God": [
-        "churches exist in God and Jesus"
+        "churches exists in God and in Jesus"
       ],
       "Author": [
         "Was Paul, Silvanus and Timothy",
         "Sent grace and peace to the church"
       ],
       "Audience": [
-        "Was the Thessalonian church"
+        "The Thessalonian church"
       ]
     },
     "definitions": {
@@ -36,9 +39,9 @@
     }
   },
   "interpret": {
-    "mainPoint": "",
+    "mainPoint": "Paul and friends greet the Thessalonian church and bless them",
     "keywords": {
-      "peace": "At risk of spoiling the coming content of this letter, we will see a juxtaposition of the peace a Christian can experience in this world as compared to the peace we experience in the sure hope of Christ"
+      "peace": "At risk of spoiling the coming content of this letter: we will see a juxtaposition of the peace a Christian can experience in this world as compared to the peace we experience in the sure hope of Christ"
     },
     "points": [
       "This letter is from Paul, Silvanus and Timothy",
@@ -61,17 +64,20 @@
     ],
     "expound": [
       {
-        "one": "",
-        "two": "",
-        "three": "",
-        "four": ""
+        "one": "Grace to you and peace",
+        "two": "I see your sin, I show you love. I see the storm surround you, I give you peace within.",
+        "three": "Sin thrusts you left, shame tugs to the right, but the loving kindness of God propels you heavenward",
+        "four": "Christian, this earth be be the grave to you, for His grace yet lifts you evermore. This earth be the furthest unsettling destination of your pilgrimage, for His peace stills your quivering and draws you ever nearer."
       }
     ]
   },
   "application": {
     "convo": [
       {
-        "question": ""
+        "question": "God is a totally good and trustworthy Father. What specific way can you listen to Him today? What part of your day or agenda can you submit to Him in trust? What do you think would be the result if you made a habit of living each day with this attitude?"
+      },
+      {
+        "question": "Jesus is a good and trustworthy Master. It may be easy for us to relate to having a manager at a job, but that's not quite the same as having a master who can repay our lack of compliance with direct consequence to our life. But a good master is different. For you, how is living with Jesus as your master a good thing? How does His mastership of your life actually show-up?"
       }
     ],
     "ACTS": {
@@ -82,11 +88,7 @@
     },
     "integrity": [
       {
-        "question": "",
-        "will": 0,
-        "intellect": 0,
-        "fantasy": 0,
-        "comment": ""
+        "question": "Think about the Christian community that is closest to you. To what degree do you all live with faith in God as your Father? With Jesus as your King and Master?"
       }
     ]
   }
