@@ -38,7 +38,7 @@ module.exports = {
     ]
   },
   application: {
-    convo: [
+    conversation: [
       { question: `` }
     ],
     ACTS: {

@@ -83,7 +83,7 @@ module.exports = {
     ]
   },
   application: {
-    convo: [
+    conversation: [
       { question: `As a Christian, you can impart God's grace to others like Paul did. Who in your life would benefit from hearing you speak God's grace to them? What would you say?` }
     ]
   }

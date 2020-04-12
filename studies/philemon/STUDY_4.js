@@ -113,7 +113,7 @@ module.exports = {
     ]
   },
   application: {
-    convo: [
+    conversation: [
       { question: `When are some times that you have worked with another person to accomplish something? Was it easy to work together? What went well? What went not-so-well? What does it mean to be partners in God's work- in the work of proclaiming His Gospel? Who is your partner today?` },
       {
         question: `Have you ever had to take the bill for someone when you weren't expecting to? Why would Christians be willing to take on the costs of and burdens of each other? Have you ever taken responsibility for another Christian? Why or why not?`

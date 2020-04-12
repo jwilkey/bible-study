@@ -44,7 +44,7 @@ module.exports = {
     ]
   },
   application: {
-    convo: [
+    conversation: [
       { question: `God is a totally good and trustworthy Father. What specific way can you listen to Him today? What part of your day or agenda can you submit to Him in trust? What do you think would be the result if you made a habit of living each day with this attitude?` },
       { question: `Jesus is a good and trustworthy Master. It may be easy for us to relate to having a manager at a job, but that's not quite the same as having a master who can repay our lack of compliance with direct consequence to our life. But a good master is different. For you, how is living with Jesus as your master a good thing? How does His mastership of your life actually show-up?` }
     ],

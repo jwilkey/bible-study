@@ -40,7 +40,7 @@ module.exports = {
     ]
   },
   application: {
-    convo: [
+    conversation: [
       { question: `conversation question accessible to any audience` }
     ],
     ACTS: {

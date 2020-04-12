@@ -82,7 +82,7 @@ module.exports = {
     ]
   },
   application: {
-    convo: [
+    conversation: [
       { question: `What would you do if you found yourself in prison tonight? If you came to realize that you were going to be wrongfully imprisoned for a while, who would you want to talk to and what would you tell them? Would you disciple people from prison; how or why not?` },
       { question: `What are some real life examples of grace? What is the difference between the grace you give and the grace God gives? What are some ways, today, that you can be an outlet of God’s grace to someone?` },
       { question: `What does peace look like? What is the difference between the peace you can create and the peace God creates? What are some ways, today, that you can be an outlet of God’s peace to someone?` }

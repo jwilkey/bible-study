@@ -122,7 +122,7 @@ module.exports = {
     ]
   },
   application: {
-    convo: [
+    conversation: [
       { question: `Is it easy or hard for you pray for other people; why? Who are the Christians in your life that you are thankful for? Spend some time today praying and thanking God for what you appreciate about them. How can you make a habit of this?` },
       { question: `Paul apparently was talking about people, about the good things they were doing for the Kingdom. Who do you know that regularly does the work of the Kingdom; what do they do? What would it look like for you to make a habit of doing Kingdom work?` },
       { question: `How did you come to know Jesus? What is different about your life with Jesus, compared to what it would be like today without Jesus? Satan wants to put a bag over our heads, tempting us to live like we don't have Jesus; how can you see this in your life? What would it look like for you to have "effective faith" in spite of your war with sin and Satan?` },

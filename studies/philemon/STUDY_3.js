@@ -99,7 +99,7 @@ module.exports = {
     ]
   },
   application: {
-    convo: [
+    conversation: [
       { question: `When there's something you know you should do to be obedient to God, what helps you to do it? Is it helpful to have a godly leader give you direction?` },
       { question: `Have you ever heard of someone that was literally arrested for following Jesus? What kind of situation would you have to be in where it could be possible for you to be threatened for your faith in Christ? What would you do?` },
       { question: `Have you ever had tension between you and another Christian? How did you get through it? Did a trusworthy believer help you? If one of the apostles knew about your conflict, what would they have said to you? Do you think one of your pastors can help you work through it in the same way?` },
