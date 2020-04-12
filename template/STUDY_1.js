@@ -47,6 +47,10 @@ module.exports = {
       thanks: [],
       supplication: []
     },
-    integrity: [{ question: ``, will: 0, intellect: 0, fantasy: 0, comment: `` }]
+    // Integrity: questions that are meant to be answered in 3 parts:
+    // (1) to what degree is this true of your will and action
+    // (2) to what degree is this permeating your thought and intellect
+    // (3) to what degree do you hold this as 'fantasy' or fiction, in disbelief
+    integrity: [{ question: ``}]
   }
 }
