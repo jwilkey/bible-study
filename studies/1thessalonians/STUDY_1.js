@@ -39,7 +39,7 @@ module.exports = {
         one: `Grace to you and peace`,
         two: `I see your sin, I show you love. I see the storm surround you, I give you peace within.`,
         three: `Sin thrusts you left, shame tugs to the right, but the loving kindness of God propels you heavenward`,
-        four: `Christian, this earth be be the grave to you, for His grace yet lifts you evermore. This earth be the furthest unsettling destination of your pilgrimage, for His peace stills your quivering and draws you ever nearer.`
+        four: `Christian, this earth be the grave to you, for His grace yet lifts you evermore. This earth be the furthest unsettling destination of your pilgrimage, for His peace stills your quivering and draws you ever nearer.`
       }
     ]
   },
