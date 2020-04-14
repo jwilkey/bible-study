@@ -7,11 +7,20 @@ module.exports = {
     adjectives: ['burdensome', 'greater'],
     actions: ['believes', 'born of', 'loves', 'love', 'obey', 'keep', 'overcomes', 'overcome', 'came', 'testifies', 'testify', 'agree', 'receive', 'borne', 'made', 'believe', 'believed', 'gave', 'not have'],
     persons: {
-      Author: [
-      ],
-      Audience: [
-      ],
       God: [
+        'Jesus is the Christ',
+        'people can be born of Him',
+        'has children',
+        'gives commandments',
+        'has love',
+        'gives non-burdensome commandments',
+        'Jesus is the Son of the Father',
+        'Jesus came by water and blood',
+        'the Spirit testifies',
+        'the Spirit is the truth',
+        `God's testimony is greater than man's testimony`,
+        'gives us eternal life',
+        'life is in Jesus'
       ]
     },
     definitions: {
