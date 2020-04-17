@@ -84,10 +84,18 @@ module.exports = {
       { question: `` }
     ],
     ACTS: {
-      adoration: [],
-      confession: [],
-      thanks: [],
-      supplication: []
+      adoration: [
+        `Why do you hope in Jesus Christ? What does it mean for your hope to be steadfast?`
+      ],
+      confession: [
+        `What prevents or hinders you from having full conviction regarding Jesus in your life? What are you going to do about it?`
+      ],
+      thanks: [
+        `For whom can you give thanks to God? What things about them are you thankful for?`
+      ],
+      supplication: [
+        `In what areas of your life are you eager to see the power of God be displayed?`
+      ]
     },
     // Integrity: questions that are meant to be answered in 3 parts:
     // (1) to what degree is this true of your will and action
