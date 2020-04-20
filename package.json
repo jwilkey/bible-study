@@ -7,7 +7,8 @@
     "statics": "node scripts/generate-studies",
     "deploy": "npm run statics && gh-pages -d public -u 'Justin Wilkey <jwilkey@tentkeep.com>'",
     "start": "npm run statics && node scripts/serve",
-    "serve": "nodemon --ignore public/ --exec npm start"
+    "serve": "nodemon --ignore public/ --exec npm start",
+    "add": "node scripts/add-study"
   },
   "dependencies": {},
   "devDependencies": {
