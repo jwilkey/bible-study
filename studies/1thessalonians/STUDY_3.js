@@ -95,7 +95,7 @@ module.exports = {
   },
   application: {
     conversation: [
-      { question: `` }
+      { question: `Look again at verses 9 and 10. Notice that it wasn’t simply their faith in some God that the Thessalonians were known for￼, but their faith in the resurrection, return and deliverance of Jesus that the church was known for. Is this how￼ you are known by others? Why or why not? What would it look like or what would need to happen for this to be true of you?` }
     ],
     ACTS: {
       adoration: [],
