@@ -4,7 +4,7 @@ const nextStudyNumber = (studyDir) => {
   const files = fs.readdirSync(studyDir)
   const numbers = files
     .filter(f => f.startsWith('STUDY_'))
-    .map(f => parseInt(f.match(/STUDY_(\d?).js/)[1]))
+    .map(f => parseInt((f.match(/STUDY_(\d.)\.js/) || [0, 0])[1]))
   return Math.max(...numbers) + 1
 }
 
@@ -22,7 +22,8 @@ const main = () => {
   const newStudyPath = `${studyDir}/STUDY_${nextStudy}.js`
   fs.copyFileSync('./template/STUDY_1.js', newStudyPath)
   fs.copyFileSync('./template/texts/STUDY_1.txt', `${studyDir}/texts/STUDY_${nextStudy}.txt`)
-  replaceInFile(newStudyPath, /BOOK/g, studyName)
+  replaceInFile(newStudyPath, /studies\/BOOK/g, `studies/${studyName}`)
+  replaceInFile(newStudyPath, /BOOK/g, studyName.toUpperCase())
   replaceInFile(newStudyPath, /STUDY_1/g, `STUDY_${nextStudy}`)
 }
 
