@@ -4,7 +4,7 @@ const nextStudyNumber = (studyDir) => {
   const files = fs.readdirSync(studyDir)
   const numbers = files
     .filter(f => f.startsWith('STUDY_'))
-    .map(f => parseInt((f.match(/STUDY_(\d.)\.js/) || [0, 0])[1]))
+    .map(f => parseInt((f.match(/STUDY_(\d+)\.js/) || [0, 0])[1]))
   return Math.max(...numbers) + 1
 }
 
