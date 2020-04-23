@@ -1,0 +1,75 @@
+{
+  "passage": "1JOHN.5.13-1JOHN.5.21",
+  "text": "13˚I write these things to you\nwho believe in the name of the Son of God,\nthat you may know that you have eternal life.\n14˚And this is the confidence that we have toward him,\nthat if we ask anything according to his will he hears us.\n15˚And if we know that he hears us in whatever we ask,\nwe know that we have the requests that we have asked of him.\n˙\n16˚If anyone sees his brother committing a sin not leading to death,\nhe shall ask, and God will give him life—\nto those who commit sins that do not lead to death.\nThere is sin that leads to death;\nI do not say that one should pray for that.\n17˚All wrongdoing is sin,\nbut there is sin that does not lead to death.\n˙\n18˚We know that everyone who has been born of God\ndoes not keep on sinning,\nbut he who was born of God protects him,\nand the evil one does not touch him.\n˙\n19˚We know that we are from God,\nand the whole world lies in the power of the evil one.\n˙\n20˚And we know that the Son of God has come\nand has given us understanding,\nso that we may know him who is true;\nand we are in him who is true,\nin his Son Jesus Christ.\nHe is the true God and eternal life.\n21˚Little children, keep yourselves from idols.",
+  "observe": {
+    "people": [],
+    "nouns": [],
+    "adjectives": [],
+    "actions": [],
+    "persons": {
+      "God": [
+        "is target of our belief",
+        "gives eternal life",
+        "has a will",
+        "hears our requests that are according to His will",
+        "he grants the requests that are according to His will",
+        "gives life to one committing sin that does not lead to death",
+        "people can be borne of Him",
+        "protects those who are born of God",
+        "has people that are from Him",
+        "the Son has come",
+        "the Son gives us understanding",
+        "God is true",
+        "God's Son is Jesus Christ",
+        "Jesus is the true God",
+        "Jesus is eternal life"
+      ],
+      "Author": [
+        "wrote so that those who believe in the Son of God may know they have eternal life"
+      ],
+      "Audience": []
+    },
+    "definitions": {}
+  },
+  "interpret": {
+    "mainPoint": "",
+    "keywords": {},
+    "points": [],
+    "titles": [],
+    "emotions": {},
+    "unwisdom": [
+      {
+        "passage": "",
+        "saying": "",
+        "comment": "",
+        "chapter": ""
+      }
+    ],
+    "expound": [
+      {
+        "one": "",
+        "two": "",
+        "three": "",
+        "four": ""
+      }
+    ]
+  },
+  "application": {
+    "conversation": [
+      {
+        "question": ""
+      }
+    ],
+    "ACTS": {
+      "adoration": [],
+      "confession": [],
+      "thanks": [],
+      "supplication": []
+    },
+    "integrity": [
+      {
+        "question": ""
+      }
+    ]
+  }
+}
