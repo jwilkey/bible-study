@@ -1,5 +1,5 @@
 module.exports = {
-  passage: '1THESSALONIANS.1.1-1THESSALONIANS.1.2',
+  passage: '1THESSALONIANS.2.1-1THESSALONIANS.2.8',
   text: './studies/1thessalonians/texts/STUDY_4.txt',
   observe: {
     people: ['you = Thessalonians', 'brothers = Thessalonians', 'our = Paul,Silvanus,Timothy', 'God', 'people', 'others', 'Christ', 'children', 'us = Paul,Silvanus,Timothy'],
@@ -105,7 +105,8 @@ module.exports = {
   },
   application: {
     conversation: [
-      { question: `` }
+      { question: `Who is your closest friend? I'm sure you talk to them often; what is it like for you to speak to them in a way that firstly pleases God? Would this also be pleasing to your friend? Over time, how might this affect your friendship?` },
+      { question: `As we try and teach people about Jesus, it can be very easy to spend all our energy on trying to figure out how to keep them engaged, how to be enjoyable to them, and to forget that our primary goal is to please our God. Do you ever see this happening in your life? What is the difference between doing ministry to please man vs doing ministry to please God?` }
     ],
     ACTS: {
       adoration: [],
