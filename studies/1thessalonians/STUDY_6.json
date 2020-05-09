@@ -122,7 +122,10 @@
   "application": {
     "conversation": [
       {
-        "question": ""
+        "question": "What is the proof in your life that the word of God is at work in you? How do you know it is the word of God and something else working in you?"
+      },
+      {
+        "question": "Do you want the word of God to work in you? What’s the risk if it doesn’t? What will determine if the word of God works in you over the next month?"
       }
     ],
     "ACTS": {
