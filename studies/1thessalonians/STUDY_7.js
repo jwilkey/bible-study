@@ -66,7 +66,9 @@ module.exports = {
       `Do not be moved so long as you stand in Christ`,
       `We are destined`
     ],
-    emotions: {},
+    emotions: {
+      longing: `Paul longed to see the Thessalonians and to know how they were doing. He had worked hard for their faith and he cared about the work and progress of the gospel. He was eager to ensure the health of their faith.`
+    },
     unwisdom: [
       {
         passage: '1THESSALONIANS.3.3',
@@ -98,7 +100,12 @@ module.exports = {
   },
   application: {
     conversation: [
-      { question: `` }
+      {
+        question: `For whom in your life do you have the strongest concern that their faith in Jesus be in a good place? Who are you eager to see thrive and excel as a leader in the Kingdom work? By the power of the Spirit, how can you ensure that they are doing well?`
+      },
+      {
+        question: `Imagine when you will be having a meal in heaven with Jesus and you begin to remember back on the work He and you did together in this life. Who will come to mind as your glory and joy, the one's you labored for in His name in this life? What aspects of these relationships will you remember with Jesus?`
+      }
     ],
     ACTS: {
       adoration: [],
