@@ -42,11 +42,25 @@ module.exports = {
     }
   },
   interpret: {
-    mainPoint: ``,
+    mainPoint: `Paul was comforted by the good report of the Thessalonian church's faith and love, and prayed for their enduring love and holiness`,
     keywords: {},
-    points: [],
-    titles: [],
-    emotions: {},
+    points: [
+      `Paul was comforted by Timothy's report of the faithful Thessalonian church`,
+      `Paul prayed thankfulness and longing to God for the Thessalonians`
+      `Paul prayed that the Thessalonians would abound in love for one another and for all`,
+      `Jesus establishes our hearts blameless in holiness when He returns`
+    ],
+    titles: [
+      `I found a church of faith and love`,
+      `What is my comfort? The faith of God's people`,
+      `Love has purpose`,
+      `My longings are my prayers`,
+      `He will come and make us blameless`
+    ],
+    emotions: {
+      relief: `'in all our distress and affliction we have been comforted about you', the news from Timothy about the health of the Thessalonian church's faith was a comfort to the missionairies who had been suffering for their work, perhaps wondering if they would see any fruit in their earthly lives for their labor. To their great relief, they had proof of the birth and maturation of a new church, in a Gentile land.`,
+      hope: `Paul was hopeful of seeing the THessalonians again and being able to invest in them more. He was also hopeful of them being found faithful and blameless at the return of Christ`
+    },
     unwisdom: [
       {
         passage: '',
