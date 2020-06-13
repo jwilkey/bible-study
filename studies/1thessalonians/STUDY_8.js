@@ -43,10 +43,13 @@ module.exports = {
   },
   interpret: {
     mainPoint: `Paul was comforted by the good report of the Thessalonian church's faith and love, and prayed for their enduring love and holiness`,
-    keywords: {},
+    keywords: {
+      faith: `the glowing fire of comfort and certainty which marked the Thessalonian church was the evidence of their faith. They had faith in the Lord and faith in the Lord's servants, such as Paul and Timothy, and this was a great comfort to the missionairies. Still, and likely always, Paul desired to disciple them more so as to increase their faith.`,
+      love: `love was a quality of the church's life enough so to be a compliment to them from Paul, and still important enough for Paul to exhort them to grow and continue in it even more, toward one another and toward all people.`
+    },
     points: [
       `Paul was comforted by Timothy's report of the faithful Thessalonian church`,
-      `Paul prayed thankfulness and longing to God for the Thessalonians`
+      `Paul prayed thankfulness and longing to God for the Thessalonians`,
       `Paul prayed that the Thessalonians would abound in love for one another and for all`,
       `Jesus establishes our hearts blameless in holiness when He returns`
     ],
@@ -54,27 +57,27 @@ module.exports = {
       `I found a church of faith and love`,
       `What is my comfort? The faith of God's people`,
       `Love has purpose`,
-      `My longings are my prayers`,
+      `My longings become my prayers`,
       `He will come and make us blameless`
     ],
     emotions: {
       relief: `'in all our distress and affliction we have been comforted about you', the news from Timothy about the health of the Thessalonian church's faith was a comfort to the missionairies who had been suffering for their work, perhaps wondering if they would see any fruit in their earthly lives for their labor. To their great relief, they had proof of the birth and maturation of a new church, in a Gentile land.`,
-      hope: `Paul was hopeful of seeing the THessalonians again and being able to invest in them more. He was also hopeful of them being found faithful and blameless at the return of Christ`
+      hope: `Paul was hopeful of seeing the Thessalonians again and of being able to invest in them more. He was also hopeful of them being found faithful and blameless at the return of Christ`
     },
     unwisdom: [
       {
-        passage: '',
-        saying: ``,
-        comment: ``,
-        chapter: ``
+        passage: '1THESSALONIANS.3.7-8',
+        saying: `What good is it to stand pure before some god if you lay there with mud slung all over your face!? This is here, this is right now, and you're gonna cry about some hopeless dream while everybody's grim reality is glaring over you!`,
+        comment: `Woe is me. Whether I slump my head in despair and dejection, or grind my teeth and clench my fists in lawful fury, I am filthy wrags. There is nothing in my power or lack thereof that can make things like new, that can erase the memory, the injury, the death. But I do not live by my power. I do not exert my will. And this does not imply that I do not have a will or that I am powerless. It is to say that I submit and I am lifted. That I die and I am raised. Though the world burn, and much of myself with it, I will remain and those with me who say, "Jesus reign!"`,
+        chapter: `Sheriff Unwisdom`
       }
     ],
     expound: [
       {
-        one: ``,
-        two: ``,
-        three: ``,
-        four: ``
+        one: `and supply what is lacking in your faith`,
+        two: `You faith is sweet, but may it be sweeter even more, this is why I pour out my prayers for you!`,
+        three: `I stand by this lake in the autumn wind, soothed by the serene waters that fill the terrestial cavity, reminded of your faith which fills the cavity of distress in my heart and of darkness in your city. And I anticipate the springtime gush which will fill this lake even more, as I anticipate the rising of your faith as you are filled by the Spirit of our Lord.`,
+        four: `Your faith is firm and resilient, it has taken root to live even in the absence of my appointment to you, and in this I rejoice! Yet, I desire and am eager to be with you once more that I may stoke thine faith into a flame which burns even brighter, even hotter!`
       }
     ]
   },
