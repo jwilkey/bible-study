@@ -78,6 +78,17 @@ module.exports = {
         two: `You faith is sweet, but may it be sweeter even more, this is why I pour out my prayers for you!`,
         three: `I stand by this lake in the autumn wind, soothed by the serene waters that fill the terrestial cavity, reminded of your faith which fills the cavity of distress in my heart and of darkness in your city. And I anticipate the springtime gush which will fill this lake even more, as I anticipate the rising of your faith as you are filled by the Spirit of our Lord.`,
         four: `Your faith is firm and resilient, it has taken root to live even in the absence of my appointment to you, and in this I rejoice! Yet, I desire and am eager to be with you once more that I may stoke thine faith into a flame which burns even brighter, even hotter!`
+      },
+      {
+        one: `direct our way to you`,
+        two: `With these eyes I see, with these feet I go, yet each step I take, each way I glance is obedient to my Sovereign Guide`,
+        three: `Coming in advance my heart is with you, my prayers beseach on your behalf, my desire calls out to you; now may my God and King make a path and provision that might carry my whole self to be in your presence!`,
+        four: `How small and inconsequential my ambition, yet how surely my coming and going and whole existence is knit to thine sovereign Will. To this Will I entreat, that my ambition to be with you might be made to be manifest.`
+      },
+      {
+        one: `and may the Lord make you increase and nbbbb in love`,
+        two: `I would love you, but I am not enough, but  I know someone who can turn up my heart`,
+        three: ``
       }
     ]
   },
