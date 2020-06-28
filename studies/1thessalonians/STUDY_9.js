@@ -44,8 +44,23 @@ module.exports = {
   },
   interpret: {
     mainPoint: ``,
-    keywords: {},
-    points: [],
+    keywords: {
+      please: ``,
+      'more and more': ``,
+      sanctification: ``,
+      'sexual immorality': ``,
+      lust: ``,
+      avenger: ``,
+      holiness: ``,
+      disregards: ``
+    },
+    points: [
+      `Paul urged the Thessalonians to increase their pursuit of pleaseing God`,
+      `God wants for us to be sanctified`,
+      `The Christian is to control their body, and to abstain from sexual immorality`,
+      `God avenges sexual immorality`,
+      `To disregard a God's instruction is to disregard God`
+    ],
     titles: [],
     emotions: {},
     unwisdom: [
