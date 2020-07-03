@@ -45,14 +45,14 @@ module.exports = {
   interpret: {
     mainPoint: ``,
     keywords: {
-      please: ``,
-      'more and more': ``,
-      sanctification: ``,
-      'sexual immorality': ``,
-      lust: ``,
-      avenger: ``,
-      holiness: ``,
-      disregards: ``
+      please: `ἀρέσκειν G700, areskein; to please, to strive to please, to be agreeable; used also in 1 Thess 2 in the negative, as those not pleasing God`,
+      'more and more': `μᾶλλον G3123, mallon; NASB 'still more'; adverb; more in a greater degree, rather, so much the more`,
+      sanctification: `ἁγιασμὸς G38, hagiasmos; consecration, purification, sanctification; sanctification of hearat and life; used also in v4 and v7, translated as holiness in the ESV`,
+      'sexual immorality': `πορνείας G4202, porneias; fornication, illicit sexual intercourse in general`,
+      lust: `ἐπιθυμίας G1939, epithymias; desire, craving, longing, especially for what is forbidden`,
+      avenger: `ἔκδικος G1558, ekdikos; adjective; carrying out justice, a punisher of one who deserves penalty`,
+      holiness: `see sanctification above, as it is the same word: ἁγιασμῷ`,
+      disregards: `ἀθετέω G114, atheteo; verb; to set aside, i.e. (by implication) to disesteem, neutralize or violate:—cast off, despise, disannul, frustrate, bring to nought, reject`
     },
     points: [
       `Paul urged the Thessalonians to increase their pursuit of pleaseing God`,
