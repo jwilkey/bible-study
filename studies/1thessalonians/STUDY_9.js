@@ -61,8 +61,16 @@ module.exports = {
       `God avenges sexual immorality`,
       `To disregard a God's instruction is to disregard God`
     ],
-    titles: [],
-    emotions: {},
+    titles: [
+      `Walk to please God, then keep walking!`,
+      `Control your body, or face the Avenger`,
+      `Not called for impurity`,
+      `Abstain from sexual immorality`
+    ],
+    emotions: {
+      solemnity: `Paul demonstrates a care and gentleness while also giving the church a serious and grave warning in regards to sexual purity`,
+      sagacious: `Exercising care and thoughtfulness, Paul, like a father, was compelled to speak into the well-living of his spiritual children, warning them of the intoxication of lustfulness and the impending vengeance upon it`
+    },
     unwisdom: [
       {
         passage: '',
