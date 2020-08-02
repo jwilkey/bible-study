@@ -1,0 +1,92 @@
+{
+  "passage": "1THESSALONIANS.4.9-1THESSALONIANS.4.12",
+  "text": "9˚Now\n  concerning brotherly love\n    you have no need for anyone to write to you,\n    for you yourselves have been taught by God\n                                 to love one another,\n10˚for that indeed is what you are doing\n     to all the brothers\n                throughout Macedonia.\n   But we urge you, brothers,\n       to do this more and more,\n    11˚and to aspire to live quietly,\n       and to mind your own affairs,\n       and to work with your hands,\n       as we instructed you,\n       12˚so that you may walk properly before outsiders\n          and be dependent on no one.",
+  "observe": {
+    "people": [
+      "you = Thessalonians",
+      "anyone",
+      "God",
+      "one another",
+      "brothers",
+      "we = Paul, Silvanus, Timothy",
+      "outsiders",
+      "no one"
+    ],
+    "nouns": [
+      "brotherly love",
+      "Macedonia",
+      "affairs",
+      "hands"
+    ],
+    "adjectives": [
+      "brotherly",
+      "indeed",
+      "all",
+      "throughout",
+      "more and more",
+      "quietly",
+      "own",
+      "properly",
+      "before"
+    ],
+    "actions": [
+      "write",
+      "taught",
+      "love",
+      "urge",
+      "live",
+      "mind",
+      "work",
+      "instructed",
+      "walk",
+      "be dependent"
+    ],
+    "persons": {
+      "God": [],
+      "Author": [],
+      "Audience": []
+    },
+    "definitions": {}
+  },
+  "interpret": {
+    "mainPoint": "",
+    "keywords": {},
+    "points": [],
+    "titles": [],
+    "emotions": {},
+    "unwisdom": [
+      {
+        "passage": "",
+        "saying": "",
+        "comment": "",
+        "chapter": ""
+      }
+    ],
+    "expound": [
+      {
+        "one": "",
+        "two": "",
+        "three": "",
+        "four": ""
+      }
+    ]
+  },
+  "application": {
+    "conversation": [
+      {
+        "question": ""
+      }
+    ],
+    "ACTS": {
+      "adoration": [],
+      "confession": [],
+      "thanks": [],
+      "supplication": []
+    },
+    "integrity": [
+      {
+        "question": ""
+      }
+    ]
+  }
+}
