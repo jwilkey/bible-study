@@ -29,7 +29,7 @@ module.exports = {
       ]
     },
     definitions: {
-      quietly: ``
+      'live quietly': `ἡσυχάζειν hesychazein G2270; to keep quiet; to rest, cease from labour; to lead a quiet life, said of those who are not running hither and thither, but stay at home and mind their business; to be silent, i.e. to say nothing, hold one's peace`
     }
   },
   interpret: {
@@ -68,10 +68,10 @@ module.exports = {
     ],
     expound: [
       {
-        one: ``,
-        two: ``,
-        three: ``,
-        four: ``
+        one: `aspire to live quietly`,
+        two: `I want to be heard, I want to be seen, but as long as you hear and see me, I am content to live quietly`,
+        three: `Like a wild animal of the night, my ambitions prowl and wander, my need to control creeps into places not it's own. But when I remember the daylight of Your providence I am content to sit quietly in the glory of Your life.`,
+        four: `In the temptation of my folly I believe that I can speak loudly, strike hard and make my change. Yet, whether I come in humility or in fierceness, only You can effect change. So I am content to abide satisfactorily in Your rest.`
       }
     ]
   },
