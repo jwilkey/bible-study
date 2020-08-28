@@ -81,7 +81,7 @@ module.exports = {
       { question: `Are you content in what God gives you and where He leads you? In what ways are you tempted to go beyond His lead, to make things and get things for your own ambitions?` },
       { question: `Paul reminds us of God's design for us to live quietly, mind our own affairs and to work. How does social media cause you to sin in these areas?` },
       { question: `What does it mean for you, as a citizen of God's Kingdom and as citizen on earth, to work with you hands? How does your work enable you to walk properly (or improperly) before non-Christians?` },
-      { question: `When you think about "minding your own affairs", it is true that your "affairs" will change over time: a new job, a new hobby, new friends, etc. How do you discern whether you are taking on the affairs that God is giving you versus getting into affairs that are not right for you to be concerned about?` }
+      { question: `Think about "minding your own affairs". It is true that your "affairs" will change over time: a new job, a new hobby, new friends, etc. How do you discern whether you are taking on the affairs that God is giving you versus getting into affairs that are not right for you to be concerned about?` }
     ],
     ACTS: {
       adoration: [],
