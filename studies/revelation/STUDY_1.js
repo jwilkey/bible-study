@@ -68,7 +68,17 @@ module.exports = {
       `The coming of Jesus will be powerful and woeful`
     ],
     titles: [],
-    emotions: {},
+    emotions: {
+      solemnity: `what gravity of seriousness and of expectation comes from a revealing, and that of truth and eternity, and that from the very highest chambers of authority! Let him who has any sense listen and perceive! Blessed is the one who reads and the one who hears. The timeless speaks in the air of freedom, life and death.`,
+      anticipation: `Behold, he is coming!`,
+      love: `To him who loves us and has freed us. Before we come to all the seriousness and ferocity of this revelation we must first rest in this fact: He loves us. The dedication of this revelation is to the holy God who loves us. Demonstrating this is the fact that He has freed us, not from some evil imposter or terroristic foe, but from a condition of our own conjuring, from the guilt of sin which we have incurred by our own doing. It is one thing to show love by entering certain danger for the sake of someone who is trapped or attacked. It is another thing to see the one who is quite wicked and suffering for it, and to interrupt their scheming with regenerative love.`
+    },
+    adversaries: [
+      {
+        who: 'Roman Emperor',
+        perspective: `Here we have some profound word from a dead religious leader, likely not! Now his "servants" will be stirred up to some false hope, but perhaps we have not to worry so long as it keeps them quietly occupied. Still, what do they suppose is soon to take place? Is this some conspiracy? Ah, John, the crazed follower who is claiming to see spirits, likely some despair after giving up all he had for this religious con artist only to see us put him to death. Great, the promise of spiritual blessing on those who spread the word, do you think that includes you Cornelius since you are reading this too me now! Oh no, I see, you must hear and obey what it says. The time is near, chilling! What do we know of these 7 churches? He-who-was can guarantee no peace before I who am. However, I don't care for all these spirits! Firstborn of the dead, interesting. Ruler of me, ha! Do I take orders from someone Cornelius? On earth? Where do they suppose this Jesus is, amongst the stars? Ah, they see him as a sacrifice, brutes after all! So they hope to be with him amongst the stars, if only I could catapult them off this earth. So he is coming, is he? Well let him come and force this wailing out of the cries of our armies! Let's send these lunes to the games!`
+      }
+    ],
     unwisdom: [
       {
         passage: '',
